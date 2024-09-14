@@ -3,7 +3,7 @@
 install with yarn
 
 ```node.js
-yarn add yw-daisyui@https://github.com/yswarkare/yw-daisyui.git
+yarn add yw-icons@https://github.com/yswarkare/yw-icons.git
 ```
 
 ## reference
