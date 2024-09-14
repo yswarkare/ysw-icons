@@ -1,5 +1,5 @@
 {
-	"name": "ysw-icons",
+	"name": "yw-icons",
 	"private": true,
 	"version": "0.1.0",
 	"type": "module",
@@ -53,5 +53,8 @@
 	},
 	"sideEffects": [
 		"**/*.css"
-	]
+	],
+	"dependencies": {
+		"yw-icons": "file:"
+	}
 }
