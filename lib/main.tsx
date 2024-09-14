@@ -1,11 +1,11 @@
 import './index.css'
-import BlocksShuffle from './loaders-02/BlocksShuffle';
-import BlocksWave from './loaders-02/BlocksWave';
-import { DarkCircle, LightCircle } from './loaders-02/CircleIcons';
-import DotsMove from './loaders-02/DotsMove';
-import PageLoader from './loaders-02/PageLoader';
-import Bounce from './loaders-02/Bounce';
-import RingWithBg from './loaders-02/ring-with-bg';
+import BlocksShuffle from './loaders/BlocksShuffle';
+import BlocksWave from './loaders/BlocksWave';
+import { DarkCircle, LightCircle } from './loaders/CircleIcons';
+import DotsMove from './loaders/DotsMove';
+import PageLoader from './loaders/PageLoader';
+import Bounce from './loaders/Bounce';
+import RingWithBg from './loaders/ring-with-bg';
 
 export {
   BlocksShuffle,
